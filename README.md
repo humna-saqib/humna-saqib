@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Humna Saqib 👋
 
-<!--
-**humna-saqib/humna-saqib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Python & AI Developer
 
-Here are some ideas to get you started:
+I specialize in Python development, AI-powered applications, and full stack web development using Django and FastAPI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+- Python
+- Django
+- FastAPI
+- Machine Learning
+- Deep Learning
+- NLP
+- TensorFlow
+- Scikit-learn
+- React
+- Git & GitHub
+
+### About Me
+- Software Engineering Student
+- Interested in AI, Automation, and Scalable Backend Systems
+- Building AI and Full Stack Projects
+- Passionate about solving real-world problems with technology
+
+### Projects
+- Sentiment Analysis NLP Pipeline
+- CNN Image Classification
+- Machine Learning Model Comparison
+- NLP Text Preprocessing Pipeline
+
+### Connect With Me
+- LinkedIn: www.linkedin.com/in/humnasqb
+- Email: humnasqb@gmail.com
