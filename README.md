@@ -2,7 +2,7 @@
 
 # Humna Saqib
 
-**Software Engineer — Python · Backend Systems · AI/ML · Algorithms**
+**Software Engineer | Python · Backend Systems · AI/ML · Algorithms**
 
 [![Email](https://img.shields.io/badge/-humnasqb%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:humnasqb@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/humnasqb/)
@@ -14,7 +14,7 @@
 
 ## Profile
 
-Backend-focused software engineer with hands-on experience building production-style APIs and applying machine learning to real-world problems — from reinforcement-learning traffic control to transformer-based NLP. Comfortable owning a project end-to-end: system design, data pipeline, model, and the API that serves it. Strong grounding in data structures and algorithms, with a bias toward clean, maintainable architecture over quick hacks.
+Backend-focused software engineer with hands-on experience building production-style APIs and applying machine learning to real-world problems, from reinforcement-learning traffic control to transformer-based NLP. Comfortable owning a project end-to-end: system design, data pipeline, model, and the API that serves it. Strong grounding in data structures and algorithms, with a bias toward clean, maintainable architecture over quick hacks.
 
 Currently open to **Software Engineer**, **Backend Engineer**, and **AI/ML Engineer** roles.
 
@@ -22,14 +22,33 @@ Currently open to **Software Engineer**, **Backend Engineer**, and **AI/ML Engin
 
 ## Technical Skills
 
-| Category | Stack |
-|---|---|
-| **Languages** | Python, JavaScript, C++ |
-| **Backend & APIs** | Django, FastAPI, REST API design |
-| **AI / ML** | TensorFlow, Scikit-learn, Reinforcement Learning (DQN), NLP, Hugging Face Transformers |
-| **Data** | Pandas, NumPy, MySQL |
-| **Tooling** | Git, Jupyter, Streamlit, Gradio |
-| **Practices** | Data Structures & Algorithms, API design, Git workflows |
+**Languages**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+
+**Backend & APIs**
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![REST APIs](https://img.shields.io/badge/-REST%20APIs-4B8BBE?style=flat-square)
+
+**AI / ML**
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Reinforcement Learning](https://img.shields.io/badge/-Reinforcement%20Learning-6A5ACD?style=flat-square)
+![NLP](https://img.shields.io/badge/-NLP-8A2BE2?style=flat-square)
+
+**Data**
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Tooling**
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Gradio](https://img.shields.io/badge/-Gradio-F97316?style=flat-square&logo=gradio&logoColor=white)
 
 <br>
 
@@ -58,11 +77,6 @@ Desktop GUI application for managing library operations, built with Python and Q
 <br>
 
 ## GitHub Activity
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=humna-saqib&show_icons=true&theme=default&hide_border=true&hide_title=false" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=humna-saqib&layout=compact&hide_border=true" />
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=humna-saqib&hide_border=true" />
