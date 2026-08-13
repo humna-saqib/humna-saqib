@@ -1,74 +1,77 @@
+<div align="center">
 
-<h1 align="center">Hi, I'm Humna Saqib 👋</h1>
-<h3 align="center">Software Engineer | Python · Backend · AI/ML · Algorithms</h3>
+# Humna Saqib
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/humnasqb/"><img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:humnasqb@gmail.com"><img src="https://img.shields.io/badge/Email-contact-D14836?style=flat&logo=gmail&logoColor=white"></a>
-</p>
+**Software Engineer — Python · Backend Systems · AI/ML · Algorithms**
 
----
+[![Email](https://img.shields.io/badge/-humnasqb%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:humnasqb@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/humnasqb/)
+[![GitHub](https://img.shields.io/badge/-github.com%2Fhumna--saqib-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/humna-saqib)
 
-### About Me
+</div>
 
-I'm a backend-focused software engineer who builds reliable APIs and applies machine learning to solve real problems. I care about clean architecture, efficient algorithms, and shipping code that works in production — not just in a notebook.
+<br>
 
-- 🔭 Currently building backend systems with **Django** and **FastAPI**
-- 🧠 Exploring **NLP** and applied **ML/DL** for practical products
-- 🌱 Sharpening data structures & algorithms fundamentals
-- 💬 Open to **Software Engineer / Backend / AI-ML Engineer** roles
-- 📫 Reach me at **humnasqb@gmail.com**
+## Profile
 
----
+Backend-focused software engineer with hands-on experience building production-style APIs and applying machine learning to real-world problems — from reinforcement-learning traffic control to transformer-based NLP. Comfortable owning a project end-to-end: system design, data pipeline, model, and the API that serves it. Strong grounding in data structures and algorithms, with a bias toward clean, maintainable architecture over quick hacks.
 
-### Tech Stack
+Currently open to **Software Engineer**, **Backend Engineer**, and **AI/ML Engineer** roles.
 
-**Languages**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+<br>
 
-**Backend & APIs**
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![REST APIs](https://img.shields.io/badge/-REST%20APIs-blue?style=flat)
+## Technical Skills
 
-**AI / ML**
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![scikit--learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
-
-**Tools & Databases**
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-
----
-
-### Featured Projects
-
-| Project | Description |
+| Category | Stack |
 |---|---|
-| [ai-email-priority-manager](https://github.com/humna-saqib/ai-email-priority-manager) | AI-powered email triage system using Django + Groq to rank inbox priority |
-| [University-Finder-API](https://github.com/humna-saqib/University-Finder-API) | Python API with a Gradio interface for looking up university data by country |
-| [Library-Management-System](https://github.com/humna-saqib/Library-Management-System) | Desktop GUI library management app built with Python and Qt Designer |
-| [rent-a-car-website](https://github.com/humna-saqib/rent-a-car-website) | Car rental web application |
-| [Snake-Game](https://github.com/humna-saqib/Snake-Game) | Classic Snake game implemented in Python |
+| **Languages** | Python, JavaScript, C++ |
+| **Backend & APIs** | Django, FastAPI, REST API design |
+| **AI / ML** | TensorFlow, Scikit-learn, Reinforcement Learning (DQN), NLP, Hugging Face Transformers |
+| **Data** | Pandas, NumPy, MySQL |
+| **Tooling** | Git, Jupyter, Streamlit, Gradio |
+| **Practices** | Data Structures & Algorithms, API design, Git workflows |
 
----
+<br>
 
-### GitHub Stats
+## Featured Projects
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=humna-saqib&show_icons=true&theme=default&hide_border=true" />
+**[IntelliRoads](https://github.com/humna-saqib/IntelliRoads)**
+AI-driven traffic management system that uses SUMO simulation and a DQN reinforcement-learning agent to dynamically optimize traffic signal timing and prioritize emergency-vehicle routing.
+`Python` `Reinforcement Learning` `SUMO` `DQN`
+
+**[NER-NLP-project](https://github.com/humna-saqib/NER-NLP-project)**
+Transformer-based Named Entity Recognition web application for extracting structured entities from unstructured text, served through a FastAPI backend with a Streamlit interface.
+`Python` `FastAPI` `Streamlit` `Hugging Face Transformers` `NLP`
+
+**[ai-email-priority-manager](https://github.com/humna-saqib/ai-email-priority-manager)**
+AI-powered email management system that classifies and ranks messages by priority, built on Django with Groq for inference.
+`Python` `Django` `Groq` `LLM Integration`
+
+**[University-Finder-API](https://github.com/humna-saqib/University-Finder-API)**
+Python REST API for retrieving university data by country, exposed through an interactive Gradio interface.
+`Python` `REST API` `Gradio`
+
+**[Library-Management-System](https://github.com/humna-saqib/Library-Management-System)**
+Desktop GUI application for managing library operations, built with Python and Qt Designer.
+`Python` `Qt Designer` `Desktop GUI`
+
+<br>
+
+## GitHub Activity
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=humna-saqib&show_icons=true&theme=default&hide_border=true&hide_title=false" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=humna-saqib&layout=compact&hide_border=true" />
-</p>
+</div>
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=humna-saqib&hide_border=true" />
-</p>
+</div>
 
----
+<br>
 
-<p align="center"><i>Open to Software Engineer / Backend / AI-ML opportunities — let's connect.</i></p>
+<div align="center">
+
+**humnasqb@gmail.com** · [LinkedIn](https://www.linkedin.com/in/humnasqb/) · [GitHub](https://github.com/humna-saqib)
+
+</div>
