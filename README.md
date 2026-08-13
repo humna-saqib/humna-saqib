@@ -10,8 +10,6 @@
 
 </div>
 
-<br>
-
 ## Profile
 
 Backend-focused software engineer with hands-on experience building production-style APIs and applying machine learning to real-world problems, from reinforcement-learning traffic control to transformer-based NLP. Comfortable owning a project end-to-end: system design, data pipeline, model, and the API that serves it. Strong grounding in data structures and algorithms, with a bias toward clean, maintainable architecture over quick hacks.
