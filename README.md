@@ -1,89 +1,40 @@
 <div align="center">
 
-# Humna Saqib
+<img src="./assets/hero.svg" width="100%" alt="Humna Saqib — Software Engineer, AI/ML, Backend Systems" />
 
-**Software Engineer | Python · Backend Systems · AI/ML · Algorithms**
+<br/><br/>
 
-[![Email](https://img.shields.io/badge/-humnasqb%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:humnasqb@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/humnasqb/)
-[![GitHub](https://img.shields.io/badge/-github.com%2Fhumna--saqib-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/humna-saqib)
+<a href="https://www.linkedin.com/in/humnasqb/"><img src="https://img.shields.io/badge/LinkedIn-0b1026?style=for-the-badge&logo=linkedin&logoColor=22d3ee" /></a>
+<a href="mailto:humnasqb@gmail.com"><img src="https://img.shields.io/badge/humnasqb@gmail.com-0b1026?style=for-the-badge&logo=gmail&logoColor=f472b6" /></a>
+<img src="https://komarev.com/ghpvc/?username=humna-saqib&style=for-the-badge&color=0b1026&label=VIEWS" />
 
-</div>
+<br/><br/>
 
-## Profile
+**I build AI systems that ship** — reinforcement-learning agents, transformer NLP and LLM-powered apps,<br/>
+wrapped in clean, production-grade **Django / FastAPI** backends. Data → model → API → product.
 
-Backend-focused software engineer with hands-on experience building production-style APIs and applying machine learning to real-world problems, from reinforcement-learning traffic control to transformer-based NLP. Comfortable owning a project end-to-end: system design, data pipeline, model, and the API that serves it. Strong grounding in data structures and algorithms, with a bias toward clean, maintainable architecture over quick hacks.
+<br/>
 
-Currently open to **Software Engineer**, **Backend Engineer**, and **AI/ML Engineer** roles.
+<img src="https://skillicons.dev/icons?i=python,fastapi,django,pytorch,tensorflow,sklearn,js,ts,mysql,git,docker,linux&perline=12" />
 
-<br>
+<br/><br/>
 
-## Technical Skills
+### Selected Work
 
-**Languages**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+<a href="https://github.com/humna-saqib/IntelliRoads"><img src="./assets/intelliroads.svg" width="32%" /></a>
+<a href="https://github.com/humna-saqib/ai-email-priority-manager"><img src="./assets/email.svg" width="32%" /></a>
+<a href="https://github.com/humna-saqib/NER-NLP-project"><img src="./assets/ner.svg" width="32%" /></a>
 
-**Backend & APIs**
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![REST APIs](https://img.shields.io/badge/-REST%20APIs-4B8BBE?style=flat-square)
+<br/><br/>
 
-**AI / ML**
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![scikit--learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Reinforcement Learning](https://img.shields.io/badge/-Reinforcement%20Learning-6A5ACD?style=flat-square)
-![NLP](https://img.shields.io/badge/-NLP-8A2BE2?style=flat-square)
+### Activity
 
-**Data**
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+<img src="https://streak-stats.demolab.com?user=humna-saqib&hide_border=true&background=0b1026&ring=a78bfa&fire=f472b6&currStreakLabel=22d3ee&sideLabels=cbd5e1&dates=94a3b8&currStreakNum=f1f5f9&sideNums=f1f5f9&stroke=1e293b" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=humna-saqib&layout=compact&hide_border=true&bg_color=0b1026&title_color=a78bfa&text_color=cbd5e1&langs_count=6" width="49%" />
 
-**Tooling**
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Gradio](https://img.shields.io/badge/-Gradio-F97316?style=flat-square&logo=gradio&logoColor=white)
-
-<br>
-
-## Featured Projects
-
-**[IntelliRoads](https://github.com/humna-saqib/IntelliRoads)**
-AI-driven traffic management system that uses SUMO simulation and a DQN reinforcement-learning agent to dynamically optimize traffic signal timing and prioritize emergency-vehicle routing.
-`Python` `Reinforcement Learning` `SUMO` `DQN`
-
-**[NER-NLP-project](https://github.com/humna-saqib/NER-NLP-project)**
-Transformer-based Named Entity Recognition web application for extracting structured entities from unstructured text, served through a FastAPI backend with a Streamlit interface.
-`Python` `FastAPI` `Streamlit` `Hugging Face Transformers` `NLP`
-
-**[ai-email-priority-manager](https://github.com/humna-saqib/ai-email-priority-manager)**
-AI-powered email management system that classifies and ranks messages by priority, built on Django with Groq for inference.
-`Python` `Django` `Groq` `LLM Integration`
-
-**[University-Finder-API](https://github.com/humna-saqib/University-Finder-API)**
-Python REST API for retrieving university data by country, exposed through an interactive Gradio interface.
-`Python` `REST API` `Gradio`
-
-**[Library-Management-System](https://github.com/humna-saqib/Library-Management-System)**
-Desktop GUI application for managing library operations, built with Python and Qt Designer.
-`Python` `Qt Designer` `Desktop GUI`
-
-<br>
-
-## GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=humna-saqib&hide_border=true" />
-</div>
-
-<br>
-
-<div align="center">
-
-**humnasqb@gmail.com** · [LinkedIn](https://www.linkedin.com/in/humnasqb/) · [GitHub](https://github.com/humna-saqib)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/humna-saqib/humna-saqib/output/snake-dark.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/humna-saqib/humna-saqib/output/snake-light.svg" width="100%" />
+</picture>
 
 </div>

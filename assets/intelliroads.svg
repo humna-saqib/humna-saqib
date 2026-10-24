@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="200" viewBox="0 0 320 200">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1026"/><stop offset="1" stop-color="#05060f"/></linearGradient>
+  <linearGradient id="a" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#22d3ee"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></linearGradient>
+  <radialGradient id="o"><stop offset="0" stop-color="#22d3ee" stop-opacity=".25"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></radialGradient></defs>
+  <style>.h{font:700 19px 'Segoe UI',Inter,sans-serif;fill:#f1f5f9}.b{font:400 13px 'Segoe UI',Inter,sans-serif;fill:#94a3b8}.t{font:600 11px Consolas,monospace;fill:#22d3ee;letter-spacing:1px}
+  .bar{animation:s 3s ease-in-out infinite}@keyframes s{0%,100%{opacity:.5}50%{opacity:1}}</style>
+  <rect x=".5" y=".5" width="319" height="199" rx="16" fill="url(#g)" stroke="#ffffff" stroke-opacity=".1"/>
+  <circle cx="290" cy="20" r="110" fill="url(#o)"/>
+  <rect class="bar" x="16" y="1" width="288" height="3" rx="1.5" fill="url(#a)"/>
+  <text x="22" y="50" class="t">01 / REINFORCEMENT LEARNING</text>
+  <text x="22" y="88" class="h">IntelliRoads</text>
+  <text x="22" y="116" class="b">RL-driven traffic signals with SUMO</text>
+  <text x="22" y="134" class="b">and DQN, prioritising emergency vehicles.</text>
+  <text x="22" y="176" class="t">PYTHON · DQN · SUMO</text>
+  <text x="296" y="50" text-anchor="end" class="b" style="font-size:18px;fill:#22d3ee">↗</text>
+</svg>

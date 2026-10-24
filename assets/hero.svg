@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="340" viewBox="0 0 1000 340">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#05060f"/><stop offset="1" stop-color="#0b1026"/>
+    </linearGradient>
+    <linearGradient id="txt" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22d3ee"><animate attributeName="stop-color" values="#22d3ee;#a78bfa;#f472b6;#22d3ee" dur="8s" repeatCount="indefinite"/></stop>
+      <stop offset="1" stop-color="#a78bfa"><animate attributeName="stop-color" values="#a78bfa;#f472b6;#22d3ee;#a78bfa" dur="8s" repeatCount="indefinite"/></stop>
+    </linearGradient>
+    <radialGradient id="o1"><stop offset="0" stop-color="#7c3aed" stop-opacity=".55"/><stop offset="1" stop-color="#7c3aed" stop-opacity="0"/></radialGradient>
+    <radialGradient id="o2"><stop offset="0" stop-color="#06b6d4" stop-opacity=".45"/><stop offset="1" stop-color="#06b6d4" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#ffffff" stroke-opacity=".04"/></pattern>
+    <clipPath id="r"><rect width="1000" height="340" rx="24"/></clipPath>
+  </defs>
+  <style>
+    .n{font:800 64px 'Segoe UI',Inter,Helvetica,Arial,sans-serif;letter-spacing:-2px}
+    .t{font:500 20px 'Segoe UI',Inter,Helvetica,Arial,sans-serif;fill:#cbd5e1}
+    .m{font:500 14px 'JetBrains Mono',Consolas,monospace}
+    .k{fill:#c084fc}.s{fill:#67e8f9}.p{fill:#94a3b8}.f{fill:#f472b6}
+    .pill{font:600 13px 'Segoe UI',Inter,sans-serif;fill:#e2e8f0}
+    .fade{opacity:0;animation:in .8s ease forwards}
+    .d1{animation-delay:.2s}.d2{animation-delay:.5s}.d3{animation-delay:.8s}.d4{animation-delay:1.1s}.d5{animation-delay:1.4s}
+    @keyframes in{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+    .cur{animation:b 1s steps(1) infinite}@keyframes b{50%{opacity:0}}
+    .float{animation:fl 9s ease-in-out infinite}@keyframes fl{50%{transform:translate(30px,20px)}}
+    .float2{animation:fl2 11s ease-in-out infinite}@keyframes fl2{50%{transform:translate(-40px,-15px)}}
+    .dot{animation:pu 2s ease-in-out infinite}@keyframes pu{50%{opacity:.3}}
+  </style>
+  <g clip-path="url(#r)">
+    <rect width="1000" height="340" fill="url(#bg)"/>
+    <rect width="1000" height="340" fill="url(#grid)"/>
+    <circle class="float" cx="160" cy="60" r="260" fill="url(#o1)"/>
+    <circle class="float2" cx="880" cy="300" r="280" fill="url(#o2)"/>
+  </g>
+  <rect x=".5" y=".5" width="999" height="339" rx="24" fill="none" stroke="#ffffff" stroke-opacity=".08"/>
+
+  <g class="fade d1">
+    <rect x="56" y="58" width="196" height="30" rx="15" fill="#10b981" fill-opacity=".12" stroke="#10b981" stroke-opacity=".4"/>
+    <circle class="dot" cx="76" cy="73" r="5" fill="#34d399"/>
+    <text x="90" y="78" class="pill" style="fill:#a7f3d0">Open to opportunities</text>
+  </g>
+  <text x="54" y="160" class="n fade d2" fill="url(#txt)">Humna Saqib</text>
+  <text x="56" y="200" class="t fade d3">Software Engineer · AI/ML · Backend Systems</text>
+  <g class="fade d4">
+    <rect x="56" y="236" width="110" height="32" rx="8" fill="#ffffff" fill-opacity=".06" stroke="#ffffff" stroke-opacity=".1"/><text x="111" y="257" text-anchor="middle" class="pill">Agentic AI</text>
+    <rect x="176" y="236" width="84" height="32" rx="8" fill="#ffffff" fill-opacity=".06" stroke="#ffffff" stroke-opacity=".1"/><text x="218" y="257" text-anchor="middle" class="pill">LLMs</text>
+    <rect x="270" y="236" width="96" height="32" rx="8" fill="#ffffff" fill-opacity=".06" stroke="#ffffff" stroke-opacity=".1"/><text x="318" y="257" text-anchor="middle" class="pill">FastAPI</text>
+    <rect x="376" y="236" width="88" height="32" rx="8" fill="#ffffff" fill-opacity=".06" stroke="#ffffff" stroke-opacity=".1"/><text x="420" y="257" text-anchor="middle" class="pill">Django</text>
+  </g>
+
+  <g class="fade d5">
+    <rect x="600" y="52" width="350" height="236" rx="14" fill="#0a0f1f" fill-opacity=".85" stroke="#ffffff" stroke-opacity=".1"/>
+    <circle cx="620" cy="72" r="5" fill="#ff5f57"/><circle cx="638" cy="72" r="5" fill="#febc2e"/><circle cx="656" cy="72" r="5" fill="#28c840"/>
+    <text x="775" y="77" text-anchor="middle" class="m p" style="font-size:12px">humna.py</text>
+    <line x1="600" y1="90" x2="950" y2="90" stroke="#ffffff" stroke-opacity=".06"/>
+    <text x="620" y="118" class="m"><tspan class="k">class</tspan> <tspan class="f">Humna</tspan><tspan class="p">:</tspan></text>
+    <text x="640" y="144" class="m"><tspan class="p">role  =</tspan> <tspan class="s">"AI Engineer"</tspan></text>
+    <text x="640" y="168" class="m"><tspan class="p">stack = [</tspan><tspan class="s">"Python"</tspan><tspan class="p">, </tspan><tspan class="s">"FastAPI"</tspan><tspan class="p">,</tspan></text>
+    <text x="712" y="192" class="m"><tspan class="s">"Django"</tspan><tspan class="p">, </tspan><tspan class="s">"PyTorch"</tspan><tspan class="p">]</tspan></text>
+    <text x="640" y="216" class="m"><tspan class="p">focus =</tspan> <tspan class="s">"RL · NLP · LLM agents"</tspan></text>
+    <text x="640" y="240" class="m"><tspan class="p">based =</tspan> <tspan class="s">"Pakistan"</tspan></text>
+    <text x="620" y="266" class="m"><tspan class="k">&gt;&gt;&gt;</tspan> <tspan class="p">Humna().build()</tspan><tspan class="cur s">▋</tspan></text>
+  </g>
+</svg>
