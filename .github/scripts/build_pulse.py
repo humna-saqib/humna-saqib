@@ -52,7 +52,7 @@ def main():
     tiles = [(cal["totalContributions"], "CONTRIBUTIONS", "last 12 months"),
              (cur, "CURRENT STREAK", "days in a row"),
              (best, "LONGEST STREAK", "days"),
-             (repos["totalCount"], "PUBLIC PROJECTS", f"{stars} stars")]
+             (repos["totalCount"], "PUBLIC PROJECTS", f"{stars} stars" if stars else "open source")]
     tile_svg = ""
     for i, (v, k, sub) in enumerate(tiles):
         x = 40 + i * 235
