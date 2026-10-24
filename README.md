@@ -4,9 +4,9 @@
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/humnasqb/"><img src="https://img.shields.io/badge/LinkedIn-0b1026?style=for-the-badge&logo=linkedin&logoColor=22d3ee" /></a>
-<a href="mailto:humnasqb@gmail.com"><img src="https://img.shields.io/badge/humnasqb@gmail.com-0b1026?style=for-the-badge&logo=gmail&logoColor=f472b6" /></a>
-<img src="https://komarev.com/ghpvc/?username=humna-saqib&style=for-the-badge&color=0b1026&label=VIEWS" />
+<a href="https://www.linkedin.com/in/humnasqb/"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>&nbsp;
+<a href="mailto:humnasqb@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>&nbsp;
+<a href="https://github.com/humna-saqib"><img src="https://skillicons.dev/icons?i=github" height="40" /></a>
 
 <br/><br/>
 
@@ -29,8 +29,8 @@ wrapped in clean, production-grade **Django / FastAPI** backends. Data → model
 
 ### Activity
 
-<img src="https://streak-stats.demolab.com?user=humna-saqib&hide_border=true&background=0b1026&ring=a78bfa&fire=f472b6&currStreakLabel=22d3ee&sideLabels=cbd5e1&dates=94a3b8&currStreakNum=f1f5f9&sideNums=f1f5f9&stroke=1e293b" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=humna-saqib&layout=compact&hide_border=true&bg_color=0b1026&title_color=a78bfa&text_color=cbd5e1&langs_count=6" width="49%" />
+<img src="https://streak-stats.demolab.com?user=humna-saqib&hide_border=true&background=0b1026&ring=a78bfa&fire=f472b6&currStreakLabel=22d3ee&sideLabels=cbd5e1&dates=94a3b8&currStreakNum=f1f5f9&sideNums=f1f5f9&stroke=1e293b" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=humna-saqib&layout=compact&hide_border=true&bg_color=0b1026&title_color=a78bfa&text_color=cbd5e1&langs_count=6&card_width=420" height="170" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/humna-saqib/humna-saqib/output/snake-dark.svg" />
