@@ -18,7 +18,9 @@ jobs:
           outputs: |
             dist/snake-dark.svg?palette=github-dark&color_snake=#ec4899&color_dots=#2e0f24,#5b1a3f,#9d174d,#db2777,#f472b6
       - name: Build pulse panel
-        run: python .github/scripts/build_pulse.py
+        run: |
+          sudo chown -R "$(id -u)" dist
+          python .github/scripts/build_pulse.py
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GH_USER: ${{ github.repository_owner }}
