@@ -46,8 +46,6 @@ wrapped in clean, production-grade **Django / FastAPI** backends. Data → model
 <img src="https://streak-stats.demolab.com?user=humna-saqib&hide_border=true&border_radius=16&background=22091a&ring=f472b6&fire=fb7185&currStreakLabel=f9a8d4&sideLabels=ecd5e1&dates=c4a3b5&currStreakNum=fdf2f8&sideNums=fdf2f8&stroke=3b1530" height="180" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=humna-saqib&layout=compact&hide_border=true&border_radius=16&bg_color=22091a&title_color=f472b6&text_color=ecd5e1&langs_count=6&card_width=400" height="180" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=humna-saqib&bg_color=22091a&color=ecd5e1&line=f472b6&point=fdf2f8&area=true&area_color=db2777&title_color=f472b6&hide_border=true&radius=16&custom_title=Contribution%20Activity" width="100%" />
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/humna-saqib/humna-saqib/output/snake-dark.svg" />
   <img alt="contribution snake" src="https://raw.githubusercontent.com/humna-saqib/humna-saqib/output/snake-light.svg" width="100%" />
