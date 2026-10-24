@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="190" viewBox="0 0 1000 190">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#22091a"/><stop offset="1" stop-color="#14060f"/></linearGradient>
+    <linearGradient id="ln" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#f472b6"/><stop offset="1" stop-color="#f472b6" stop-opacity="0"/></linearGradient>
+  </defs>
+  <style>
+    .n{font:700 12px Consolas,'JetBrains Mono',monospace;fill:#f472b6;letter-spacing:2px}
+    .h{font:700 20px 'Segoe UI',Inter,sans-serif;fill:#fdf2f8}
+    .b{font:400 13.5px 'Segoe UI',Inter,sans-serif;fill:#c4a3b5}
+    .c{opacity:0;animation:in .7s ease forwards}.c2{animation-delay:.25s}.c3{animation-delay:.5s}
+    @keyframes in{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
+  </style>
+  <g class="c">
+    <rect x=".5" y=".5" width="319" height="189" rx="16" fill="url(#bg)" stroke="#f472b6" stroke-opacity=".18"/>
+    <rect x="24" y="24" width="60" height="2" fill="url(#ln)"/>
+    <text x="24" y="52" class="n">AI / ML</text>
+    <text x="24" y="86" class="h">Intelligent systems</text>
+    <text x="24" y="114" class="b">Reinforcement learning, transformer</text>
+    <text x="24" y="133" class="b">NLP and LLM agents — from research</text>
+    <text x="24" y="152" class="b">idea to a model that works.</text>
+  </g>
+  <g class="c c2" transform="translate(340,0)">
+    <rect x=".5" y=".5" width="319" height="189" rx="16" fill="url(#bg)" stroke="#f472b6" stroke-opacity=".18"/>
+    <rect x="24" y="24" width="60" height="2" fill="url(#ln)"/>
+    <text x="24" y="52" class="n">BACKEND</text>
+    <text x="24" y="86" class="h">Production APIs</text>
+    <text x="24" y="114" class="b">Django and FastAPI services with</text>
+    <text x="24" y="133" class="b">clean architecture, built to serve</text>
+    <text x="24" y="152" class="b">models reliably at scale.</text>
+  </g>
+  <g class="c c3" transform="translate(680,0)">
+    <rect x=".5" y=".5" width="319" height="189" rx="16" fill="url(#bg)" stroke="#f472b6" stroke-opacity=".18"/>
+    <rect x="24" y="24" width="60" height="2" fill="url(#ln)"/>
+    <text x="24" y="52" class="n">QUALITY</text>
+    <text x="24" y="86" class="h">Tested &amp; maintainable</text>
+    <text x="24" y="114" class="b">End-to-end automation with</text>
+    <text x="24" y="133" class="b">Playwright and a strong grounding</text>
+    <text x="24" y="152" class="b">in data structures &amp; algorithms.</text>
+  </g>
+</svg>

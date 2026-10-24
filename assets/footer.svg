@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="200" viewBox="0 0 1000 200">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#22091a"/><stop offset="1" stop-color="#14060f"/></linearGradient>
+    <linearGradient id="t" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#f9a8d4"><animate attributeName="stop-color" values="#f9a8d4;#f472b6;#fb7185;#f9a8d4" dur="8s" repeatCount="indefinite"/></stop>
+      <stop offset="1" stop-color="#f472b6"><animate attributeName="stop-color" values="#f472b6;#fb7185;#f9a8d4;#f472b6" dur="8s" repeatCount="indefinite"/></stop>
+    </linearGradient>
+    <radialGradient id="o"><stop offset="0" stop-color="#db2777" stop-opacity=".45"/><stop offset="1" stop-color="#db2777" stop-opacity="0"/></radialGradient>
+    <clipPath id="r"><rect width="1000" height="200" rx="24"/></clipPath>
+  </defs>
+  <style>
+    .h{font:800 38px 'Segoe UI',Inter,sans-serif;letter-spacing:-1px}
+    .b{font:400 16px 'Segoe UI',Inter,sans-serif;fill:#ecd5e1}
+    .m{font:600 14px Consolas,monospace;fill:#f9a8d4;letter-spacing:1px}
+    .f{animation:fl 10s ease-in-out infinite}@keyframes fl{50%{transform:translate(-60px,10px)}}
+  </style>
+  <g clip-path="url(#r)">
+    <rect width="1000" height="200" fill="url(#bg)"/>
+    <circle class="f" cx="820" cy="100" r="260" fill="url(#o)"/>
+  </g>
+  <rect x=".5" y=".5" width="999" height="199" rx="24" fill="none" stroke="#f472b6" stroke-opacity=".2"/>
+  <text x="500" y="84" text-anchor="middle" class="h" fill="url(#t)">Let's build something great.</text>
+  <text x="500" y="118" text-anchor="middle" class="b">Open to Software Engineer, Backend and AI/ML Engineer roles &amp; collaborations.</text>
+  <text x="500" y="158" text-anchor="middle" class="m">HUMNASQB@GMAIL.COM  ·  LINKEDIN.COM/IN/HUMNASQB</text>
+</svg>
