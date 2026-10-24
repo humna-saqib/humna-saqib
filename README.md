@@ -35,6 +35,14 @@ wrapped in clean, production-grade **Django / FastAPI** backends. Data → model
 
 ### GitHub Pulse
 
+<a href="https://github.com/humna-saqib?tab=achievements"><img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="84" title="Pull Shark x2" /></a>&nbsp;&nbsp;
+<a href="https://github.com/humna-saqib?tab=achievements"><img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="84" title="YOLO" /></a>&nbsp;&nbsp;
+<a href="https://github.com/humna-saqib?tab=achievements"><img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="84" title="Quickdraw" /></a>
+
+<sub><b>PULL SHARK ×2</b> &nbsp;·&nbsp; <b>YOLO</b> &nbsp;·&nbsp; <b>QUICKDRAW</b></sub>
+
+<br/><br/>
+
 <img src="https://streak-stats.demolab.com?user=humna-saqib&hide_border=true&border_radius=16&background=22091a&ring=f472b6&fire=fb7185&currStreakLabel=f9a8d4&sideLabels=ecd5e1&dates=c4a3b5&currStreakNum=fdf2f8&sideNums=fdf2f8&stroke=3b1530" height="180" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=humna-saqib&layout=compact&hide_border=true&border_radius=16&bg_color=22091a&title_color=f472b6&text_color=ecd5e1&langs_count=6&card_width=400" height="180" />
 
