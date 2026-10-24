@@ -1,25 +1,40 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="200" viewBox="0 0 1000 200">
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="230" viewBox="0 0 1000 230">
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#22091a"/><stop offset="1" stop-color="#14060f"/></linearGradient>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#3a0d2b"/><stop offset=".5" stop-color="#22091a"/><stop offset="1" stop-color="#14060f"/></linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f9a8d4" stop-opacity=".6"/><stop offset=".5" stop-color="#f472b6" stop-opacity=".12"/><stop offset="1" stop-color="#f9a8d4" stop-opacity=".45"/></linearGradient>
     <linearGradient id="t" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#f9a8d4"><animate attributeName="stop-color" values="#f9a8d4;#f472b6;#fb7185;#f9a8d4" dur="8s" repeatCount="indefinite"/></stop>
-      <stop offset="1" stop-color="#f472b6"><animate attributeName="stop-color" values="#f472b6;#fb7185;#f9a8d4;#f472b6" dur="8s" repeatCount="indefinite"/></stop>
+      <stop offset="0" stop-color="#fdf2f8"/><stop offset=".5" stop-color="#f9a8d4"><animate attributeName="offset" values=".1;.9;.1" dur="6s" repeatCount="indefinite"/></stop><stop offset="1" stop-color="#f472b6"/>
     </linearGradient>
-    <radialGradient id="o"><stop offset="0" stop-color="#db2777" stop-opacity=".45"/><stop offset="1" stop-color="#db2777" stop-opacity="0"/></radialGradient>
-    <clipPath id="r"><rect width="1000" height="200" rx="24"/></clipPath>
+    <linearGradient id="btn" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ec4899"/><stop offset="1" stop-color="#db2777"/></linearGradient>
+    <radialGradient id="o"><stop offset="0" stop-color="#ec4899" stop-opacity=".5"/><stop offset="1" stop-color="#ec4899" stop-opacity="0"/></radialGradient>
+    <linearGradient id="sh" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".1"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#f9a8d4" fill-opacity=".12"/></pattern>
+    <clipPath id="r"><rect width="1000" height="230" rx="24"/></clipPath>
   </defs>
   <style>
-    .h{font:800 38px 'Segoe UI',Inter,sans-serif;letter-spacing:-1px}
-    .b{font:400 16px 'Segoe UI',Inter,sans-serif;fill:#ecd5e1}
-    .m{font:600 14px Consolas,monospace;fill:#f9a8d4;letter-spacing:1px}
-    .f{animation:fl 10s ease-in-out infinite}@keyframes fl{50%{transform:translate(-60px,10px)}}
+    .k{font:700 12px Consolas,monospace;fill:#f472b6;letter-spacing:3px}
+    .h{font:800 42px 'Segoe UI',Inter,Helvetica,Arial,sans-serif;letter-spacing:-1px}
+    .b{font:400 16px 'Segoe UI',Inter,Helvetica,Arial,sans-serif;fill:#e9c9da}
+    .bt{font:700 15px 'Segoe UI',Inter,sans-serif;fill:#fff}
+    .m{font:600 13px Consolas,monospace;fill:#f9a8d4;letter-spacing:.5px}
+    .f{animation:fl 10s ease-in-out infinite}@keyframes fl{50%{transform:translate(-80px,15px)}}
+    .p{animation:pu 2.4s ease-in-out infinite;transform-origin:500px 178px}@keyframes pu{50%{transform:scale(1.03)}}
   </style>
   <g clip-path="url(#r)">
-    <rect width="1000" height="200" fill="url(#bg)"/>
-    <circle class="f" cx="820" cy="100" r="260" fill="url(#o)"/>
+    <rect width="1000" height="230" fill="url(#bg)"/>
+    <rect width="1000" height="230" fill="url(#dots)"/>
+    <circle class="f" cx="860" cy="60" r="280" fill="url(#o)"/>
+    <circle cx="100" cy="230" r="220" fill="url(#o)" opacity=".7"/>
+    <rect width="1000" height="115" fill="#fff" fill-opacity=".025"/>
+    <rect x="-1000" y="0" width="330" height="230" fill="url(#sh)" transform="skewX(-20)"><animate attributeName="x" values="-1000;1600" dur="6s" repeatCount="indefinite"/></rect>
   </g>
-  <rect x=".5" y=".5" width="999" height="199" rx="24" fill="none" stroke="#f472b6" stroke-opacity=".2"/>
-  <text x="500" y="84" text-anchor="middle" class="h" fill="url(#t)">Let's build something great.</text>
-  <text x="500" y="118" text-anchor="middle" class="b">Open to Software Engineer, Backend and AI/ML Engineer roles &amp; collaborations.</text>
-  <text x="500" y="158" text-anchor="middle" class="m">HUMNASQB@GMAIL.COM  ·  LINKEDIN.COM/IN/HUMNASQB</text>
+  <rect x=".75" y=".75" width="998.5" height="228.5" rx="23.5" fill="none" stroke="url(#edge)" stroke-width="1.5"/>
+  <text x="500" y="50" text-anchor="middle" class="k">GET IN TOUCH</text>
+  <text x="500" y="98" text-anchor="middle" class="h" fill="url(#t)">Let's build something great.</text>
+  <text x="500" y="130" text-anchor="middle" class="b">Open to Software Engineer, Backend and AI/ML Engineer roles &amp; collaborations.</text>
+  <g class="p">
+    <rect x="400" y="155" width="200" height="46" rx="23" fill="url(#btn)"/>
+    <rect x="400" y="155" width="200" height="23" rx="23" fill="#fff" fill-opacity=".12"/>
+    <text x="500" y="184" text-anchor="middle" class="bt">humnasqb@gmail.com  →</text>
+  </g>
 </svg>

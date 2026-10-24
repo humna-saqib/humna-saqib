@@ -1,4 +1,4 @@
-name: Generate contribution snake
+name: Generate GitHub pulse
 on:
   schedule:
     - cron: "0 0 * * *"
@@ -11,12 +11,17 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
       - uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/snake-dark.svg?palette=github-dark&color_snake=#ec4899&color_dots=#2a0f20,#5b1a3f,#9d174d,#db2777,#f472b6
-            dist/snake-light.svg?color_snake=#db2777&color_dots=#fce7f3,#fbcfe8,#f9a8d4,#ec4899,#be185d
+            dist/snake-dark.svg?palette=github-dark&color_snake=#ec4899&color_dots=#2e0f24,#5b1a3f,#9d174d,#db2777,#f472b6
+      - name: Build pulse panel
+        run: python .github/scripts/build_pulse.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USER: ${{ github.repository_owner }}
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output

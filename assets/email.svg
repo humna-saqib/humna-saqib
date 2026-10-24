@@ -13,4 +13,7 @@
   <text x="22" y="134" class="b">ranks every message by priority.</text>
   <text x="22" y="176" class="t">DJANGO · GROQ · LLM</text>
   <text x="296" y="50" text-anchor="end" class="b" style="font-size:18px;fill:#f472b6">↗</text>
+<!--sheen--><defs><linearGradient id="shem" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".09"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient><clipPath id="scem"><rect width="320" height="200" rx="16"/></clipPath></defs>
+<g clip-path="url(#scem)"><rect x="-320" y="0" width="106" height="200" fill="url(#shem)" transform="skewX(-20)"><animate attributeName="x" values="-320;512" dur="6s" repeatCount="indefinite"/></rect>
+<rect width="320" height="100" fill="#fff" fill-opacity=".025"/></g><!--/sheen-->
 </svg>

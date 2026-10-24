@@ -1,40 +1,29 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="190" viewBox="0 0 1000 190">
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#22091a"/><stop offset="1" stop-color="#14060f"/></linearGradient>
-    <linearGradient id="ln" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#f472b6"/><stop offset="1" stop-color="#f472b6" stop-opacity="0"/></linearGradient>
-  </defs>
-  <style>
-    .n{font:700 12px Consolas,'JetBrains Mono',monospace;fill:#f472b6;letter-spacing:2px}
-    .h{font:700 20px 'Segoe UI',Inter,sans-serif;fill:#fdf2f8}
-    .b{font:400 13.5px 'Segoe UI',Inter,sans-serif;fill:#c4a3b5}
-    .c{opacity:0;animation:in .7s ease forwards}.c2{animation-delay:.25s}.c3{animation-delay:.5s}
-    @keyframes in{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
-  </style>
-  <g class="c">
-    <rect x=".5" y=".5" width="319" height="189" rx="16" fill="url(#bg)" stroke="#f472b6" stroke-opacity=".18"/>
-    <rect x="24" y="24" width="60" height="2" fill="url(#ln)"/>
-    <text x="24" y="52" class="n">AI / ML</text>
-    <text x="24" y="86" class="h">Intelligent systems</text>
-    <text x="24" y="114" class="b">Reinforcement learning, transformer</text>
-    <text x="24" y="133" class="b">NLP and LLM agents — from research</text>
-    <text x="24" y="152" class="b">idea to a model that works.</text>
-  </g>
-  <g class="c c2" transform="translate(340,0)">
-    <rect x=".5" y=".5" width="319" height="189" rx="16" fill="url(#bg)" stroke="#f472b6" stroke-opacity=".18"/>
-    <rect x="24" y="24" width="60" height="2" fill="url(#ln)"/>
-    <text x="24" y="52" class="n">BACKEND</text>
-    <text x="24" y="86" class="h">Production APIs</text>
-    <text x="24" y="114" class="b">Django and FastAPI services with</text>
-    <text x="24" y="133" class="b">clean architecture, built to serve</text>
-    <text x="24" y="152" class="b">models reliably at scale.</text>
-  </g>
-  <g class="c c3" transform="translate(680,0)">
-    <rect x=".5" y=".5" width="319" height="189" rx="16" fill="url(#bg)" stroke="#f472b6" stroke-opacity=".18"/>
-    <rect x="24" y="24" width="60" height="2" fill="url(#ln)"/>
-    <text x="24" y="52" class="n">QUALITY</text>
-    <text x="24" y="86" class="h">Tested &amp; maintainable</text>
-    <text x="24" y="114" class="b">End-to-end automation with</text>
-    <text x="24" y="133" class="b">Playwright and a strong grounding</text>
-    <text x="24" y="152" class="b">in data structures &amp; algorithms.</text>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="200" viewBox="0 0 1000 200">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#2a0b20"/><stop offset=".55" stop-color="#1c0716"/><stop offset="1" stop-color="#14060f"/></linearGradient>
+<linearGradient id="edge" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f9a8d4" stop-opacity=".55"/><stop offset=".5" stop-color="#f472b6" stop-opacity=".12"/><stop offset="1" stop-color="#f9a8d4" stop-opacity=".4"/></linearGradient>
+<radialGradient id="glow"><stop offset="0" stop-color="#ec4899" stop-opacity=".35"/><stop offset="1" stop-color="#ec4899" stop-opacity="0"/></radialGradient></defs>
+<style>.n{font:700 12px Consolas,monospace;fill:#f472b6;letter-spacing:2px}.h{font:700 21px 'Segoe UI',Inter,Helvetica,Arial,sans-serif;fill:#fdf2f8}.b{font:400 14px 'Segoe UI',Inter,Helvetica,Arial,sans-serif;fill:#d9b8c9}
+.c{opacity:0;animation:in .7s ease forwards}@keyframes in{to{opacity:1}}</style>
+<g transform="translate(0,0)"><g class="c" style="animation-delay:0.0s">
+<rect width="320" height="200" rx="18" fill="url(#bg)"/><circle cx="300" cy="0" r="150" fill="url(#glow)"/>
+<rect x=".75" y=".75" width="318.5" height="198.5" rx="17.5" fill="none" stroke="url(#edge)" stroke-width="1.5"/>
+<text x="26" y="44" class="n">01</text><text x="56" y="44" class="n">AI / ML</text>
+<rect x="26" y="58" width="36" height="3" rx="1.5" fill="#f472b6"/>
+<text x="26" y="94" class="h">Intelligent systems</text><text x="26" y="120" class="b">Reinforcement learning, transformer</text><text x="26" y="140" class="b">NLP and LLM agents, from research</text><text x="26" y="160" class="b">idea to a model that works.</text><defs><linearGradient id="shf0" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".09"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient><clipPath id="scf0"><rect width="320" height="200" rx="18"/></clipPath></defs>
+<g clip-path="url(#scf0)"><rect x="-320" y="0" width="106" height="200" fill="url(#shf0)" transform="skewX(-20)"><animate attributeName="x" values="-320;512" dur="6s" repeatCount="indefinite"/></rect>
+<rect width="320" height="100" fill="#fff" fill-opacity=".025"/></g></g></g><g transform="translate(340,0)"><g class="c" style="animation-delay:0.2s">
+<rect width="320" height="200" rx="18" fill="url(#bg)"/><circle cx="300" cy="0" r="150" fill="url(#glow)"/>
+<rect x=".75" y=".75" width="318.5" height="198.5" rx="17.5" fill="none" stroke="url(#edge)" stroke-width="1.5"/>
+<text x="26" y="44" class="n">02</text><text x="56" y="44" class="n">BACKEND</text>
+<rect x="26" y="58" width="36" height="3" rx="1.5" fill="#f472b6"/>
+<text x="26" y="94" class="h">Production APIs</text><text x="26" y="120" class="b">Django and FastAPI services with</text><text x="26" y="140" class="b">clean architecture, built to serve</text><text x="26" y="160" class="b">models reliably at scale.</text><defs><linearGradient id="shf1" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".09"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient><clipPath id="scf1"><rect width="320" height="200" rx="18"/></clipPath></defs>
+<g clip-path="url(#scf1)"><rect x="-320" y="0" width="106" height="200" fill="url(#shf1)" transform="skewX(-20)"><animate attributeName="x" values="-320;512" dur="6s" repeatCount="indefinite"/></rect>
+<rect width="320" height="100" fill="#fff" fill-opacity=".025"/></g></g></g><g transform="translate(680,0)"><g class="c" style="animation-delay:0.4s">
+<rect width="320" height="200" rx="18" fill="url(#bg)"/><circle cx="300" cy="0" r="150" fill="url(#glow)"/>
+<rect x=".75" y=".75" width="318.5" height="198.5" rx="17.5" fill="none" stroke="url(#edge)" stroke-width="1.5"/>
+<text x="26" y="44" class="n">03</text><text x="56" y="44" class="n">QUALITY</text>
+<rect x="26" y="58" width="36" height="3" rx="1.5" fill="#f472b6"/>
+<text x="26" y="94" class="h">Tested &amp; maintainable</text><text x="26" y="120" class="b">End-to-end automation with</text><text x="26" y="140" class="b">Playwright and a strong grounding</text><text x="26" y="160" class="b">in data structures &amp; algorithms.</text><defs><linearGradient id="shf2" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".09"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient><clipPath id="scf2"><rect width="320" height="200" rx="18"/></clipPath></defs>
+<g clip-path="url(#scf2)"><rect x="-320" y="0" width="106" height="200" fill="url(#shf2)" transform="skewX(-20)"><animate attributeName="x" values="-320;512" dur="6s" repeatCount="indefinite"/></rect>
+<rect width="320" height="100" fill="#fff" fill-opacity=".025"/></g></g></g>
 </svg>
